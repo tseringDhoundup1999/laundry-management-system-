@@ -1,4 +1,4 @@
-Laudry Managment System (Backend)
+#Laudry Managment System (Backend)
 
 A backend system build with django to manage laundry operations such as users, orders, service and payments
 this project is structured using best practices for scalability and future fronted integration
